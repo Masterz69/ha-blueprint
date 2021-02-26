@@ -1,1 +1,1 @@
-# ha-blueprints
+# ha-blueprint
